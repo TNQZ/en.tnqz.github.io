@@ -5,8 +5,6 @@ url: "https://tnqz.github.io/"
 
 # User settings
 username: TN&nbsp;QAZAQ
-user_description: IT staffing for your business IT staffing for your business IT staffing for your business
-user_title: IT staffing for your business
 
 email: "TN QAZAQ <social@tnqz.tech>"
 telegram_account: https://t.me/tnqazaq
@@ -16,6 +14,6 @@ vk_group: https://vk.com/tnqz.tech
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-XJ6E4PY561"
 
 exclude: ['package.json', 'src' , 'node_modules']

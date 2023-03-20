@@ -9,6 +9,7 @@
 
 .tech {
   margin: 10px;
+  width: 33%;
 }
 
 .user {
@@ -18,8 +19,11 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  p {
+  p, ul {
     font-size: 16px;
+  }
+  li {
+    text-align: left;
   }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
@@ -28,6 +32,12 @@
 }
 
 .user-details {
-  text-align: center;
+  text-align: justify;
   margin: 5px auto;
+}
+
+.partner-image {
+  margin-top: 15px;
+  margin-right: 15px;
+  opacity: 65%;
 }
