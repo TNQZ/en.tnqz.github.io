@@ -7,12 +7,12 @@ url: "https://tnqz.github.io/"
 username: TN&nbsp;QAZAQ
 user_description: IT staffing for your business IT staffing for your business IT staffing for your business
 user_title: IT staffing for your business
-email: social@tnqz.tech
-github_username: tnqz
-linkedin_username: tnqz
-facebook_username: tnqz.tech
-vk_username: tnqz.tech
-telegram_username: tnqazaq
+
+email: "TN QAZAQ <social@tnqz.tech>"
+telegram_account: https://t.me/tnqazaq
+linkedin_group: https://www.linkedin.com/company/tnqz
+facebook_group: https://www.facebook.com/groups/tnqz.tech
+vk_group: https://vk.com/tnqz.tech
 
 # Google-analytics
 google-analytics:
