@@ -25,6 +25,9 @@
   li {
     text-align: left;
   }
+  i {
+    color: #00A2E3FF;
+  }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
     font-size: 75px;
