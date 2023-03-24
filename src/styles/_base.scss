@@ -19,6 +19,7 @@ h1, h2, h3, h4, stong {
 }
 h1 {
     font-size: 2.5rem;
+    text-align: left;
 }
 h2 {
     font-size: 2rem;
@@ -35,6 +36,9 @@ ul, ol {
 }
 p, figure {
     margin: 1em 0;
+}
+a {
+    color: $sec;
 }
 a img {
     border: none;
