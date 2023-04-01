@@ -34,6 +34,7 @@
     }
   }
   .site-description {
+    text-align: center;
     font-size: 20px;
     display: block;
     line-height: 1;
@@ -130,13 +131,23 @@
 }
 
 .logo-image {
-  height: 60px;
-  left: -25px;
+  height: 35px;
+  left: -15px;
   position: relative;
+
+  @media only screen and (min-width:$cut) {
+    height: 60px;
+    left: -25px;
+  }
 }
 
 .logo-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 80px;
+
+  @media only screen and (min-width:$cut) {
+    font-size: 100px;
+  }
 }
