@@ -11,9 +11,8 @@
 }
 
 .request-form {
-  text-align: center;
-}
-
-.footer_iframe {
-  display: none;
+  margin: 0 auto;
+  iframe {
+    width: 507px !important;
+  }
 }
