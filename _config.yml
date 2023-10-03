@@ -1,16 +1,15 @@
 # Site settings
 title: TNQZ
-description: "TN QAZAQ company site"
+description: "TNQZ company site"
 url: "https://tnqz.tech/"
 
 # User settings
-username: TN&nbsp;Qazaq
+username: TNQZ
 
 email: "mail@tnqz.tech"
 telegram_account: tnqz_bot
 linkedin_group: https://www.linkedin.com/company/tnqz
 facebook_group: https://www.facebook.com/groups/tnqz.tech
-vk_group: https://vk.com/tnqz.tech
 
 # Google-analytics
 google-analytics:
